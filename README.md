@@ -1,5 +1,5 @@
 # Pablo Coronado  <img src="https://komarev.com/ghpvc/?username=Pablo-Coronado&label=Profile%20views&color=0e75b6&style=flat" alt="Pablo-Coronado" />  
-👩🏻‍🎓 Bachelor in Computer Engineering Systems
+👩🏻‍🎓 Bachelor in Computer Systems Engineering
 
 
 
